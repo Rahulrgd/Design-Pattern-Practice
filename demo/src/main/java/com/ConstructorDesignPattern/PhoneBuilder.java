@@ -1,4 +1,6 @@
-package com.example;
+package com.ConstructorDesignPattern;
+
+import com.example.Phone;
 
 public class PhoneBuilder {
     private String os;

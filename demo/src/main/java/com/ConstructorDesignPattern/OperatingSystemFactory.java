@@ -1,4 +1,6 @@
-package com.example;
+package com.ConstructorDesignPattern;
+
+import com.example.IOS;
 
 public class OperatingSystemFactory {
     public OS getInstance(String str){
